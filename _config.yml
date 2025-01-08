@@ -12,7 +12,7 @@ title                    : "Longtian Shi(师珑天)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://github.com/tapslt # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Longtian Shi"
   pronouns         : # example: "she/her"  
-  bio              : "A Truth Seeker"
+  bio              : "Southern University of Science and Technology"
   location         : "Shenzhen, China"
-  employer         : "Southern University of Science and Technology"
+  employer         : #""
   uri              : # URL
   email            : "shilt2022@mail.sustech.edu.cn" 
 
